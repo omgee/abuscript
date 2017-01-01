@@ -4,7 +4,7 @@
 ```
 git clone https://github.com/omgee/abuscript.git
 cd abuscript
-sudo abuscript install
+sudo ./abuscript.sh install
 ```
 # Использование
 ```
